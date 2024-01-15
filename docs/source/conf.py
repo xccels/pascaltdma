@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'PaScaL_TDMA documentation'
+project = 'PaScaL_TDMA'
 copyright = '2024, Ji-Hoon Kang'
 author = 'Ji-Hoon Kang'
 release = '1.0'
