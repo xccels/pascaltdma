@@ -3,14 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PaScaL_TDMA documentation!
+PaScaL_TDMA documentation
 =====================================================
+
+PaScaL_TDMA stands for Parallel and Scalable Library for Tridiagonal Matrix Algorithm
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Content:
 
-
+   Introduction
+   Installation
 
 Indices and tables
 ==================
