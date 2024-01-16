@@ -10,12 +10,12 @@ PaScaL_TDMA stands for Parallel and Scalable Library for Tridiagonal Matrix Algo
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents
+   :caption: Contents:
 
    Contents/Introduction
    Contents/Installation
    Contents/Run
-   Contents/Benchmark
+   Contents/Performance
    Contents/Theory
    Contents/Links
 
